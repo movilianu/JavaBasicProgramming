@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="IntroductionToProgramming" options="--add-exports java.net.http/jdk.internal.net.http.common=ALL-UNNAMED" />
+      <module name="IntroductionToProgramming" options="" />
     </option>
   </component>
 </project>
