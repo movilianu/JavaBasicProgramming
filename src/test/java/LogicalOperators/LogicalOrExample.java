@@ -2,7 +2,7 @@ package LogicalOperators;
 
 public class LogicalOrExample {
     public static void main(String[] args) {
-        boolean isOnSale = true;
+        boolean isOnSale = false;
         boolean isInStock = false;
 
         if (isOnSale || isInStock) {

@@ -14,7 +14,6 @@ public class Exercise6 {
         // Input password
         System.out.println("Password please ");
         String s = userInput.nextLine();
-
         // Print password on standard output
         System.out.println("Provided password is " + s);
 

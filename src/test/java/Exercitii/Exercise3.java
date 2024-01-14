@@ -11,7 +11,7 @@ public class Exercise3 {
     public static void main(String[] args) {
         // Initialize variables, their types and values
         int i = 1000000000;
-        long l = -900000000;
+        long l = -900000000          ;
         double d = 100;
 
         // Print the variable values in the console

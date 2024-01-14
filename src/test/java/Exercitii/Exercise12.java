@@ -22,8 +22,8 @@ public class Exercise12 {
         for (int i = 1; i < number; i++) {
             remainder = i % 2;
             // Check condition
-            if (remainder > 0) {
-                System.out.println("Odd number " + i);
+            if (remainder == 0) {
+                System.out.println("Even number " + i);
             }
         }
     }

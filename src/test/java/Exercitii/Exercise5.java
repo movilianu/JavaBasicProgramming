@@ -34,11 +34,7 @@ public class Exercise5 {
 
         // addition
         double addition_result = a + b;
-        System.out.println(
-                "a = " + a
-                + ", b = " + b
-                + ", result is  " + addition_result
-        );
+        System.out.println( "a = " + a + ", b = " + b + ", result is  " + addition_result);
 
         // subtraction
         double subtraction_result = a - b;

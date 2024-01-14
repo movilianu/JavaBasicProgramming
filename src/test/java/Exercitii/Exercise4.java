@@ -22,7 +22,7 @@ public class Exercise4 {
         // in this specific case integer value
 
         // Print text and variable value
-        System.out.println("User input value " + a);
+        System.out.println("User input value" + a);
     }
 }
 

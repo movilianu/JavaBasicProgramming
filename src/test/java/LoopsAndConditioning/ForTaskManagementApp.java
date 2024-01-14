@@ -10,10 +10,10 @@ public class ForTaskManagementApp {
         tasks.add(new ForTask("Buy groceries", "Get milk, eggs, and bread", "2023-06-12"));
         tasks.add(new ForTask("Exercise", "Go for a jog in the park", "2023-06-11"));
 
-        for (ForTask task : tasks) {
-            System.out.println("Title:" + task.getTitle());
-            System.out.println("Description: " + task.getDescription());
-            System.out.println("Due Date: " + task.getDueDate());
+        for (ForTask ceVreMuschiuMeu : tasks) {
+            System.out.println("Title:" + ceVreMuschiuMeu.getTitle());
+            System.out.println("Description: " + ceVreMuschiuMeu.getDescription());
+            System.out.println("Due Date: " + ceVreMuschiuMeu.getDueDate());
             System.out.println("----------------------");
         }
     }

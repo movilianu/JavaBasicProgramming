@@ -21,9 +21,21 @@ public class Exercise7 {
         // Check who are you
         if (name.equals("John Wick")) {
             System.out.println("I see you working again John");
+        } else if(name.equals("Johnny Depp")){
+            System.out.println("Ahoy captain!");
         }
         else {
-            System.out.println("Welcome, " + name);
+            System.out.println("Not those guys.");
         }
+
+//        String myVar = new String("2024-01-13-Movilianu-Dan-xc3op3ufb4i3vyb4ibv43u");
+//        myVar.contains("2024");
+//        String anFactura = myVar.substring(0, 4); // Wha
+//        String anCurent = "2024";
+//        if (anFactura.equals(anCurent)){
+//            System.out.println("Anul facturii este anul curent.");
+//        } else {
+//            System.out.println("Anul nu coincide! Eroare an factura.");
+//        };
     }
 }
